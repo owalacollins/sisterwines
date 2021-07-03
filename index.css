@@ -1,6 +1,7 @@
 
 .name{
     opacity:1;
+    font-family: 'Charm', cursive;
 }
 .nav{
     height:50px;
@@ -22,7 +23,8 @@
     display: inline-block;
 }
 .nav ul li{
-    display:inline-block;   
+    display:inline-block; 
+    font-family: 'Teko', sans-serif;
 }
 .nav ul li a{
     color:white;
@@ -49,7 +51,7 @@
     text-align:center;
     text-decoration: underline;
     color:#7fff00;
-    
+    font-family: 'Black Ops One', cursive;
 }
 *{
     box-sizing: border-box;

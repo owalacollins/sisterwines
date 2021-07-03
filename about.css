@@ -16,6 +16,7 @@
     display: inline-block;
     border-left:white 10px solid ;
     background-color:black;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 .heading{
     text-align:center;
